@@ -7,7 +7,7 @@
 * **Codewars:** [AnastasiiaLitvinenko](https://www.codewars.com/users/Ana-Litv)
 
 * **Discord:** @Ana-Litv
-***
+
 ### About Me:
 Aspiring web developer with a strong passion for learning and exploring new technologies. I am dedicated to continuously improving my skills and staying updated with the latest trends in web development. Eager to apply my knowledge in HTML, CSS, and JavaScript to real-world projects and contribute to a dynamic team. Driven by a love for coding and a commitment to personal and professional growth.
 
@@ -20,7 +20,7 @@ Aspiring web developer with a strong passion for learning and exploring new tech
 * Adobe Photoshop
 * Figma
 * Jira, Confluence
-***
+
 
 ### Code example:
 ```
@@ -57,7 +57,7 @@ console.log(isPalindrome("aрозаупаланалапуазора"));
 2023 – [Stepik: JavaScript для начинающих](https://stepik.org/cert/2143689)
 
 2024 – [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/cordyllin/responsive-web-design)
-***
+
 ### Languages:
 * **Russian** - native
 * **English** - C1 (a certified teacher)
