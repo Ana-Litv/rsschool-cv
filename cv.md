@@ -57,3 +57,4 @@ console.log(isPalindrome("aрозаупаланалапуазора"));
 2023 – [Stepik: JavaScript для начинающих](https://stepik.org/cert/2143689)
 
 2024 – [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/cordyllin/responsive-web-design)
+***
