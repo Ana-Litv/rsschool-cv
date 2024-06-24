@@ -58,3 +58,8 @@ console.log(isPalindrome("aрозаупаланалапуазора"));
 
 2024 – [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/cordyllin/responsive-web-design)
 ***
+### Languages:
+* **Russian** - native
+* **English** - C1 (a certified teacher)
+* **Italian** - B2 (a certified teacher)
+* **French** - B1
